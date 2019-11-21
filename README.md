@@ -1,7 +1,7 @@
 # certificate-generator
 Simple Python3 script to generate e-certificates
 
-Prerequisites : Opencv
+Requirements : Opencv
 
 Create a csv file with required columns , enter appropiate template and generate!
 
